@@ -7,6 +7,6 @@ This is a simple project that detects the strengths of electromagnetic signals a
 - Arduino Uno or other clone board.
 - copper strip.
 - Resistors.
-- LEDs
+- LEDs.
 - Breadboard and connecting wires.
 - Power source (e.g., batteries). 
